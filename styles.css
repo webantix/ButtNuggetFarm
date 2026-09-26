@@ -175,6 +175,7 @@ section > .wrap { display: flex; flex-direction: column; gap: 18px; }
 .faq--highlight { outline: 2px dashed var(--dusty-rose); outline-offset: -8px; }
 
 .about { background: var(--cream); }
+.about-text { display: flex; flex-direction: column; gap: 14px; }
 .about-photos { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
 .photo-placeholder {
   height: 170px; border-radius: 20px;
@@ -248,7 +249,7 @@ section > .wrap { display: flex; flex-direction: column; gap: 18px; }
   .about .wrap { flex-direction: row; align-items: center; gap: 56px; }
   .about-photos { flex: 0 0 520px; gap: 16px; }
   .photo-placeholder, .about-photos img { height: 300px; border-radius: 28px; }
-  .about-text { display: flex; flex-direction: column; gap: 20px; }
+  .about-text { gap: 20px; }
   .about-text p { font-size: 19px; line-height: 1.6; }
 
   .site-footer { padding: 48px 0; }
@@ -258,4 +259,12 @@ section > .wrap { display: flex; flex-direction: column; gap: 18px; }
 
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
+}
+
+/* Logo stands in until family/flock photos are added */
+.about-photos--logo { grid-template-columns: 1fr; justify-items: center; }
+.about-photos--logo img { width: 220px; height: 220px; object-fit: contain; border-radius: 50%; }
+@media (min-width: 820px) {
+  .about-photos--logo { flex: 0 0 360px; }
+  .about-photos--logo img { width: 320px; height: 320px; }
 }
