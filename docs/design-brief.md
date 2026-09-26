@@ -5,6 +5,7 @@
 ## Who we are
 Butt Nugget Farm is a small backyard poultry breeder in **Gidgegannup, in the Perth Hills, Western Australia** (about 40 minutes north-east of Perth). We sell **fertile hatching eggs** and **chicks**. We do **not** sell eggs for eating. All copy should describe our eggs as hatching eggs for incubation.
 
+- Website domain: **buttnuggetfarm.com** (singular. Note that buttnuggetfarms.com is an unrelated US farm.)
 - Facebook: https://www.facebook.com/profile.php?id=61593547466551 (our main channel for updates and orders)
 - Breeds we keep: [[list breeds, e.g. Australorp, Silkie, Pekin, Isa Brown]]
 - Chick options: [[straight run / sexed / point of lay?]] at [[age range]]
@@ -59,6 +60,8 @@ Keep it small. A single long page with anchor navigation is fine.
 - Enquiry form optional; if included, use a no-backend service (e.g. Formspree/Netlify Forms) or just deep-link to Facebook Messenger.
 - Fast on rural mobile connections: compressed images, no heavy frameworks.
 - Accessible: good contrast, alt text, readable font sizes.
+- Australian English throughout (colour, chook, favourite), AUD prices, `lang="en-AU"`.
+- Local SEO matters more than usual, because several US farms share our name. Every page title and the hero should say "Gidgegannup" / "Perth Hills, WA" so that we are clearly the Australian one.
 - Basic local SEO: title/description mentioning "hatching eggs", "chicks", "Gidgegannup", "Perth Hills", "Perth"; Open Graph tags so links look good when shared on Facebook; LocalBusiness schema.org markup.
 
 ## Deliverables I want from you
