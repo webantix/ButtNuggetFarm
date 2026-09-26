@@ -11,7 +11,7 @@ Butt Nugget Farm is a small backyard poultry breeder in **Gidgegannup, in the Pe
 - Prices: [[hatching eggs $ per half dozen / dozen; chicks $ each]]
 - How people order: [[Facebook Messenger / phone / email]]
 - Pickup: [[pickup only from Gidgegannup, or meet-ups / posting hatching eggs within WA?]]
-- Logo / colours: [[attach the Facebook profile and cover images; list any brand colours]]
+- Logo and cover art: **attach both images from the Facebook page**. Brand details are in the Visual identity section below.
 
 ## Audience
 - Backyard keepers and families in the Perth Hills and metro Perth
@@ -20,8 +20,28 @@ Butt Nugget Farm is a small backyard poultry breeder in **Gidgegannup, in the Pe
 
 Most visitors will come from a Facebook post on their phone. **Design mobile-first.**
 
+## Visual identity (already set, so match it and don't reinvent it)
+Our Facebook branding is a **knitted / crocheted wool diorama**. Everything looks hand-knitted: a cream farmhouse with a pastel pink-and-blue tiled roof, a timber chook house, rolling sage-green knitted hills, gum trees, rose, daisy and lavender borders, and yarn chickens (white, black-and-white barred, and red/brown roosters). The farm name sits on a knitted ribbon banner in dusty brown/pink with "Gidgegannup, WA" underneath. The logo is a round badge showing a hen on a nest of eggs, ringed with knitted flowers.
+
+Approximate palette taken from the artwork (refine these against the attached images):
+| Role | Colour | Approx. hex |
+|---|---|---|
+| Background | Oatmeal / cream wool | `#F3ECE0` |
+| Primary accent | Dusty rose | `#D48A93` |
+| Deep accent / buttons | Rose-brown (banner text) | `#8E4F4A` |
+| Secondary | Powder blue | `#A9C4DE` |
+| Nature | Sage green | `#A7B98A` |
+| Highlight | Lavender | `#A893C8` |
+| Text | Warm brown | `#5B3E31` |
+
+Design direction:
+- Carry the knitted, handmade feel into the website: soft rounded shapes, subtle knit/stitch textures or stitched borders, ribbon-banner headings, and flower corner accents. Keep it tasteful, and make sure text always sits on a clean, readable surface rather than on busy texture.
+- Use the cover image as the hero. It has text baked in and is very wide, so plan how it crops on mobile. Either use the logo badge plus a cropped scene on phones, or ask us for a text-free version.
+- Pick a friendly rounded display font for headings that echoes the chunky banner lettering, and a plain, highly readable body font.
+- Keep the Facebook blue out of the palette except on the "Message us" button itself.
+
 ## Tone
-Playful, because the name is a joke and we're happy with that, but also clearly a well-run, trustworthy small farm. Warm, rural and hand-made. Not corporate, and not cutesy clip-art.
+Cosy, cute and handmade to match the artwork, with a bit of humour from the name, but also clearly a well-run, trustworthy small farm that knows its birds. Warm and rural, not corporate.
 
 ## Pages / sections
 Keep it small. A single long page with anchor navigation is fine.
