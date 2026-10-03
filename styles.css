@@ -169,12 +169,12 @@ section > .wrap { display: flex; flex-direction: column; gap: 18px; }
   text-align: left; margin-bottom: 12px;
 }
 .price-table thead th {
-  background: var(--dusty-rose); color: var(--text-dark);
+  background: var(--rose-brown); color: #fff;
   font-family: var(--display); font-weight: 600; font-size: 16px;
   text-align: left; padding: 10px 16px;
 }
-.price-table thead th:first-child { border-radius: 999px 0 0 999px; }
-.price-table thead th:last-child { border-radius: 0 999px 999px 0; text-align: right; }
+.price-table thead th:first-child { border-radius: 14px 0 0 14px; }
+.price-table thead th:last-child { border-radius: 0 14px 14px 0; text-align: right; }
 .price-table thead th:first-child, .price-table tbody th { text-align: left; }
 .price-table tbody th, .price-table td {
   padding: 14px 16px; border-bottom: 2px dashed var(--stitch);
