@@ -292,7 +292,7 @@ section > .wrap { display: flex; flex-direction: column; gap: 18px; }
 
 /* Logo stands in until family/flock photos are added */
 .about-photos--logo { grid-template-columns: 1fr; justify-items: center; }
-.about-photos--logo img { width: 220px; height: 220px; object-fit: contain; border-radius: 50%; }
+.about-photos--logo img { width: 220px; height: 220px; object-fit: contain; border-radius: 20px; }
 @media (min-width: 820px) {
   .about-photos--logo { flex: 0 0 360px; }
   .about-photos--logo img { width: 320px; height: 320px; }
