@@ -4,8 +4,8 @@
   --rose-brown: #8E4F4A;
   --rose-brown-dark: #6E3935;
   --dusty-rose: #D48A93;
-  --sage: #A7B98A;
-  --powder: #A9C4DE;
+  --apricot: #F8DCC4;
+  --lavender: #E2D8EE;
   --text: #5B3E31;
   --text-dark: #3E2A22;
   --stitch: #C9B79C;
@@ -133,7 +133,7 @@ p { margin: 0; }
 section { padding: 44px 0; }
 section > .wrap { display: flex; flex-direction: column; gap: 18px; }
 
-.offer { background: var(--sage); padding-top: 24px; }
+.offer { background: var(--apricot); padding-top: 24px; }
 .lead { font-weight: 700; color: var(--text-dark); max-width: 640px; }
 .offer .card { background: var(--cream); outline-color: var(--dusty-rose); display: flex; flex-direction: column; gap: 12px; }
 .offer .card h3 { font-size: 24px; }
@@ -187,7 +187,7 @@ section > .wrap { display: flex; flex-direction: column; gap: 18px; }
   font-size: 20px; color: var(--rose-brown);
 }
 
-.contact { background: var(--powder); color: var(--text-dark); }
+.contact { background: var(--lavender); color: var(--text-dark); }
 .contact-buttons { display: grid; gap: 12px; }
 .contact-buttons .btn { min-height: 64px; border-radius: 20px; font-size: 18px; }
 .contact-phone { text-align: center; }
