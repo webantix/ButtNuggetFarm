@@ -4,7 +4,7 @@
   --rose-brown: #8E4F4A;
   --rose-brown-dark: #6E3935;
   --dusty-rose: #D48A93;
-  --marigold: #F6D9A8;
+  --apricot: #F8DCC4;
   --lavender: #E2D8EE;
   --text: #5B3E31;
   --text-dark: #3E2A22;
@@ -133,7 +133,7 @@ p { margin: 0; }
 section { padding: 44px 0; }
 section > .wrap { display: flex; flex-direction: column; gap: 18px; }
 
-.offer { background: var(--marigold); padding-top: 24px; }
+.offer { background: var(--apricot); padding-top: 24px; }
 .lead { font-weight: 700; color: var(--text-dark); max-width: 640px; }
 .offer .card { background: var(--cream); outline-color: var(--dusty-rose); display: flex; flex-direction: column; gap: 12px; }
 .offer .card h3 { font-size: 24px; }
